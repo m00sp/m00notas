@@ -1,6 +1,6 @@
 # m00notas
 
-- [ ] Fazer a revisão do meu código em todos os meus prs sistematicamente a partir de hoje 10/09/2024, antes de fazer a mesclagem de qualquer pr.
+- [ ] Fazer a revisão do meu código em todos os meus prs sistematicamente a partir de hoje 10/09/2024.
 - [ ] Verificar ortografia no editor antes de fazer qualquer commit, no idioma que seja.
 - [ ] Fazer rejunte no quintal.
 - [ ] Limpar quintal.

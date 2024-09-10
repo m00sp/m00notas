@@ -1,5 +1,7 @@
 # m00notas
 
+- [ ] Começar a Fazer a revisão do meu código em todos os meus prs sistematicamente a partir de hoje 10/09/2024, antes de fazer a mesclagem de qualquer pr.
+- [ ] Verificar ortografia no editor antes de fazer qualquer commit, no idioma que seja.
 - [ ] Fazer rejunte no quintal.
 - [ ] Limpar quintal.
 - [ ] ganhar mentoria da lfx.

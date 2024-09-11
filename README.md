@@ -12,6 +12,6 @@
 - [ ] Imprimir meu historial acadêmico da unsam.
 - [ ] ir à diretoria de ensino com historial acadêmico da unsam. Para conseguir meu certificado de conclusão do ensino médio.
 - [ ] ingressar na univesp em 2025.
-- [ ] c. 
+- [X] ~~Uma coisa pronta e tachada lista para jogar no lixo.~~. 
 - [x] Uma coisa pronta.
       

@@ -1,5 +1,6 @@
 # m00notas
 
+- [ ] Fechar telefone do Cássio e enviar relatório.
 - [ ] Fazer a revisão do meu código em todos os meus prs sistematicamente a partir de hoje 10/09/2024.
 - [ ] Incorporar os drafts pr sistematicamente para forçar a revisão do código antes de dar merge.
 - [ ] Verificar ortografia no editor antes de fazer qualquer commit, no idioma que seja.

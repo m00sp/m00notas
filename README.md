@@ -1,6 +1,7 @@
 # m00notas
 
-- [ ] Ir à ubs e a retirar o meu documento em lapa.
+- [ ] Enviar cv ao registro.br
+- [X] ~~Ir à ubs e a retirar o meu documento em lapa.~~
 - [X] ~~Fechar telefone do Cássio e enviar relatório.~~
 - [ ] Fazer a revisão do meu código em todos os meus prs sistematicamente a partir de hoje 10/09/2024.
 - [ ] Incorporar os drafts pr sistematicamente para forçar a revisão do código antes de dar merge.
@@ -9,7 +10,7 @@
 - [ ] Limpar quintal.
 - [ ] ganhar mentoria da lfx.
 - [ ] Finalizar cursos do ifrs quanto antes.
-- [ ] Retirar documento em lapa.
+- [X] ~~Retirar documento em lapa.~~
 - [ ] Imprimir meu historial acadêmico da unsam.
 - [ ] ir à diretoria de ensino com historial acadêmico da unsam. Para conseguir meu certificado de conclusão do ensino médio.
 - [ ] ingressar na univesp em 2025.

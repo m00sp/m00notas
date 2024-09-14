@@ -1,6 +1,7 @@
 # m00notas
 
-- [ ] Enviar cv ao registro.br
+- [ ] Praia.
+- [X] ~~Enviar cv ao registro.br~~
 - [X] ~~Ir à ubs e a retirar o meu documento em lapa.~~
 - [X] ~~Fechar telefone do Cássio e enviar relatório.~~
 - [ ] Fazer a revisão do meu código em todos os meus prs sistematicamente a partir de hoje 10/09/2024.

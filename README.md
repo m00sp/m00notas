@@ -1,6 +1,6 @@
 # m00notas
 
-- [ ] Acadêmia.
+- [ ] Estudar para ingressar na univesp.
 - [X] ~~Praia.~~
 - [X] ~~Enviar cv ao registro.br~~
 - [X] ~~Ir à ubs e a retirar o meu documento em lapa.~~

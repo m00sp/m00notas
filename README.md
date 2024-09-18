@@ -1,5 +1,7 @@
 # m00notas
 
+- [ ] Ir até a caixa.
+- [ ] Ir ao farol.
 - [ ] Estudar para ingressar na univesp.
 - [X] ~~Praia.~~
 - [X] ~~Enviar cv ao registro.br~~

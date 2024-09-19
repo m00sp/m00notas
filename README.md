@@ -1,5 +1,6 @@
 # m00notas
 
+- [ ] Finalizar cursos da cisco e cgi.
 - [ ] Ir até a caixa.
 - [ ] Ir ao farol.
 - [ ] Estudar para ingressar na univesp.

@@ -1,5 +1,7 @@
 # m00notas
 
+- [ ] subir certificados da cisco.
+- [ ] Fazer feria.
 - [ ] Finalizar cursos da cisco e cgi.
 - [ ] Ir até a caixa.
 - [ ] Ir ao farol.

@@ -1,5 +1,7 @@
 # m00notas
 
+- [ ] Configurar site para tema escuro por defeito.
+- [ ] Migrar deploy do site para netlify para melhorar o scan result do http observatory da mdn.
 - [ ] subir certificados da cisco.
 - [ ] Fazer feria.
 - [ ] Finalizar cursos da cisco e cgi.

@@ -1,6 +1,7 @@
 # m00notas
 
-- [ ] Centrar TI no logo do site.
+- [ ] Corrigir nome maẽ cpf.
+- [X] ~~Centrar TI no logo do site.~~
 - [ ] Mudar definitivamente todos os logos do abridge do site para o meu.
 - [X] ~~Configurar site para tema escuro por defeito.~~. Já estava pronto.
 - [ ] Migrar deploy do site para netlify para melhorar o scan result do http observatory da mdn.

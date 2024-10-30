@@ -1,11 +1,10 @@
 # m00notas
 
-- [X] ~~Uma coisa a mais para fazer, pegar trabalho como programador ou ti quanto antes.~~
 - [ ] Corrigir nome maẽ cpf.
 - [ ] Mudar definitivamente todos os logos do abridge do site para o meu.
 - [ ] Migrar deploy do site para netlify para melhorar o scan result do http observatory da mdn.
 - [ ] Fazer feria.
-- [ ] Finalizar cursos da cisco, cgi, datadog, linux foundation, microsoftlearn.
+- [ ] Finalizar cursos da cisco, cgi, datadog, linux foundation, ifrs.
 - [ ] Ir até a caixa.
 - [ ] Ir ao farol.
 - [ ] Estudar para ingressar na univesp.

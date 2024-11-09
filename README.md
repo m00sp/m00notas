@@ -11,5 +11,5 @@
 - [ ] Fazer rejunte no quintal.
 - [ ] Limpar quintal.
 - [ ] ganhar mentoria da lfx.
-- [ ] Finalizar cursos do ifrs quanto antes.
+- [X] ~~Finalizar cursos do ifrs quanto antes.~~
 - [ ] ingressar na univesp em 2025.

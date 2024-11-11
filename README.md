@@ -1,5 +1,6 @@
 # m00notas
 
+- [ ] Corrigir palavras chaves do meu site.
 - [ ] Corrigir nome maẽ cpf.
 - [ ] Mudar definitivamente todos os logos do abridge do site para o meu.
 - [ ] Migrar deploy do site para netlify para melhorar o scan result do http observatory da mdn.
